@@ -55,3 +55,7 @@ git checkout master
 ```sh
 git status
 ```
+### Удаление веток
+```sh
+git branch -d <название ветки для удаления>
+```
